@@ -29,6 +29,12 @@
       "day": "ddd",
       "reminder": true,
       "id": "jUiuoPQ"
+    },
+    {
+      "text": "Testing 123d",
+      "day": "dddd",
+      "reminder": true,
+      "id": "S8u4aQ8"
     }
   ]
 }
