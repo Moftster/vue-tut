@@ -13,16 +13,22 @@
       "reminder": true
     },
     {
-      "id": "3",
-      "text": "Food shopping",
-      "day": "March 1st at 5.30pm",
-      "reminder": false
+      "text": "Clean teeth",
+      "day": "ddddd",
+      "reminder": false,
+      "id": "_k07B7l"
     },
     {
-      "id": 44647,
-      "text": "sdsds",
-      "day": "eee",
-      "reminder": true
+      "text": "dsedfdsffdsfdw",
+      "day": "ddd",
+      "reminder": false,
+      "id": "GTlIrwi"
+    },
+    {
+      "text": "e",
+      "day": "ddd",
+      "reminder": true,
+      "id": "jUiuoPQ"
     }
   ]
 }
